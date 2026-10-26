@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- One Piece Theme -->
+    <color name="pirate_red">#C41E3A</color>
+    <color name="ocean_blue">#0077B6</color>
+    <color name="deep_ocean">#023E8A</color>
+    <color name="treasure_gold">#FFD700</color>
+    <color name="straw_hat_yellow">#F4A460</color>
+    <color name="ink_black">#1A1A1A</color>
+    <color name="comic_white">#F8F1E3</color>
+    <color name="sunny_orange">#FF6B35</color>
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

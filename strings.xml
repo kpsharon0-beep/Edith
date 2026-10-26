@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EDITH</string>
+    <string name="accessibility_service_description">EDITH needs Accessibility access to control your device like a true First Mate. Enable it to unlock full power — taps, swipes, typing, and complete automation.</string>
+    <string name="notification_channel_name">EDITH Brain</string>
+    <string name="notification_channel_desc">Keeps EDITH alive and listening</string>
+    <string name="notification_title">EDITH Online</string>
+    <string name="notification_text">Listening for \"Hey EDITH\"… Ready to burn the world if ordered.</string>
+    <string name="wake_word">hey edith</string>
+</resources>

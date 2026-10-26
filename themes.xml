@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EDITH" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/pirate_red</item>
+        <item name="colorPrimaryVariant">@color/deep_ocean</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/treasure_gold</item>
+        <item name="colorOnSecondary">@color/ink_black</item>
+        <item name="android:statusBarColor">@color/ink_black</item>
+        <item name="android:navigationBarColor">@color/ink_black</item>
+        <item name="android:windowBackground">@color/ink_black</item>
+        <item name="android:colorBackground">@color/ink_black</item>
+    </style>
+</resources>
